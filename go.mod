@@ -7,8 +7,8 @@ toolchain go1.23.1
 require (
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/Masterminds/squirrel v1.5.3
-	github.com/beego/beego/v2 v2.0.1
-	github.com/beevik/etree v1.1.0
+	github.com/beego/beego/v2 v2.3.6
+	github.com/beevik/etree v1.7.0
 	github.com/cokeBeer/goot v0.0.33
 	github.com/go-sql-driver/mysql v1.6.0
 	github.com/lestrrat-go/libxml2 v0.0.0-20240905100032-c934e3fcb9d3
@@ -43,19 +43,19 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/neo4j/neo4j-go-driver/v4 v4.4.4 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/prometheus/client_golang v1.7.0 // indirect
+	github.com/prometheus/client_golang v1.11.1 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.10.0 // indirect
 	github.com/prometheus/procfs v0.1.3 // indirect
 	github.com/shiena/ansicolor v0.0.0-20151119151921-a422bbe96644 // indirect
 	github.com/syndtr/goleveldb v1.0.0 // indirect
-	golang.org/x/crypto v0.0.0-20220427172511-eb4f295cb31f // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
-	golang.org/x/net v0.0.0-20220722155237-a158d28d115b // indirect
-	golang.org/x/sys v0.0.0-20220829200755-d48e67d00261 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/crypto v0.56.0 // indirect
+	golang.org/x/mod v0.40.0 // indirect
+	golang.org/x/net v0.62.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
+	golang.org/x/text v0.41.0 // indirect
 	golang.org/x/tools v0.1.12 // indirect
-	google.golang.org/protobuf v1.26.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	xorm.io/builder v0.3.9 // indirect
 )
